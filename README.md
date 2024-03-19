@@ -1,1 +1,1 @@
-# mini-projects
+# drumklit-projects
